@@ -2,11 +2,11 @@
 import os, time
 
 strat_time =  time.strftime('%Y-%m-%d %X', time.localtime())#爬虫统一运行时间
-# os.system("cd Yy && scrapy crawl yy")#运行爬虫
-os.system("cd Qier && scrapy crawl qier")#运行/爬虫
-os.system("cd Chuso && scrapy crawl chuso")#运行爬虫
-os.system("cd Douyu && scrapy crawl douyu")#运行爬虫
-os.system("cd Huya && scrapy crawl huya")#运行爬虫
+os.system("cd Yy && scrapy crawl yy")#运行爬虫
+# os.system("cd Qier && scrapy crawl qier")#运行爬虫
+# os.system("cd Chuso && scrapy crawl chuso")#运行爬虫
+# os.system("cd Douyu && scrapy crawl douyu")#运行爬虫
+# os.system("cd Huya && scrapy crawl huya")#运行爬虫
 
 
 class spidertime():#该类给爬虫读取时间专用

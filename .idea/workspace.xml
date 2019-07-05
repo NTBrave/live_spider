@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bb53fd5-7e37-4f8b-849c-39011a1f4462" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Huya/Huya/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/Huya/Huya/pipelines.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Huya/Huya/spiders/huyaspider.py" beforeDir="false" afterPath="$PROJECT_DIR$/Huya/Huya/spiders/huyaspider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runspider.py" beforeDir="false" afterPath="$PROJECT_DIR$/runspider.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,16 +15,87 @@
     <SUITE FILE_PATH="coverage/Livespider$huyaspider.coverage" NAME="huyaspider Coverage Results" MODIFIED="1562232986587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Huya/Huya/spiders" />
     <SUITE FILE_PATH="coverage/Livespider$runnin.coverage" NAME="runnin Coverage Results" MODIFIED="1562248106222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Qier" />
     <SUITE FILE_PATH="coverage/Livespider$pipelines.coverage" NAME="pipelines Coverage Results" MODIFIED="1562250469519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Qier/qier" />
-    <SUITE FILE_PATH="coverage/Livespider$runspider.coverage" NAME="runspider Coverage Results" MODIFIED="1562255481866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/live_spider$runspider.coverage" NAME="runspider Coverage Results" MODIFIED="1562314334831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Livespider$runspider.coverage" NAME="runspider Coverage Results" MODIFIED="1562306823817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Qier/qier/spiders/qierspider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Huya/Huya/spiders/huyaspider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+              <folding>
+                <element signature="e#24#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Yy/Yy/spiders/Yyspider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1922">
+              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+              <folding>
+                <element signature="e#24#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Douyu/Douyu/spider/douyuspider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#24#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chuso/chuso/spiders/chushouspider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1850">
+              <caret line="77" column="55" lean-forward="true" selection-start-line="77" selection-start-column="55" selection-end-line="77" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/runspider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+            <state relative-caret-position="34">
+              <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Yy/Yy/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+              <folding>
+                <element signature="e#193#212#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -34,7 +103,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Huya/Huya" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -51,12 +120,12 @@
         <option value="$PROJECT_DIR$/Qier/qier/settings.py" />
         <option value="$PROJECT_DIR$/Douyu/Douyu/spider/douyuspider.py" />
         <option value="$PROJECT_DIR$/Chuso/chuso/spiders/chushouspider.py" />
-        <option value="$PROJECT_DIR$/Yy/Yy/spiders/Yyspider.py" />
         <option value="$PROJECT_DIR$/runspider.py" />
+        <option value="$PROJECT_DIR$/Yy/Yy/spiders/Yyspider.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="245" />
     <option name="width" value="1488" />
     <option name="height" value="1020" />
@@ -72,19 +141,19 @@
         <subPane>
           <expand>
             <path>
-              <item name="live_spider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="live_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="Livespider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Livespider" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="live_spider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="live_spider" type="462c0819:PsiDirectoryNode" />
-              <item name="Huya" type="462c0819:PsiDirectoryNode" />
+              <item name="Livespider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Livespider" type="462c0819:PsiDirectoryNode" />
+              <item name="Yy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="live_spider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="live_spider" type="462c0819:PsiDirectoryNode" />
-              <item name="Huya" type="462c0819:PsiDirectoryNode" />
-              <item name="Huya" type="462c0819:PsiDirectoryNode" />
+              <item name="Livespider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Livespider" type="462c0819:PsiDirectoryNode" />
+              <item name="Yy" type="462c0819:PsiDirectoryNode" />
+              <item name="Yy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -222,12 +291,12 @@
       <workItem from="1562231641806" duration="3412000" />
       <workItem from="1562235994495" duration="2800000" />
       <workItem from="1562245045626" duration="10025000" />
-      <workItem from="1562313732118" duration="1935000" />
+      <workItem from="1562306806146" duration="386000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18172000" />
+    <option name="totallyTimeSpent" value="16623000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -239,9 +308,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17761394" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17761394" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -256,12 +325,12 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.5621562" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.8761905" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.6761905" />
-      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.49946696" visible="true" weight="0.041152265" />
+      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.49946696" weight="0.22222222" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Mongo Explorer" order="4" visible="true" weight="0.3297587" />
+      <window_info anchor="right" id="Mongo Explorer" order="4" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
@@ -429,50 +498,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Yy/Yy/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-          <folding>
-            <element signature="e#193#212#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Douyu/Douyu/spider/douyuspider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="425">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="e#24#51#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Yy/Yy/spiders/Yyspider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="87" lean-forward="true" selection-start-line="19" selection-start-column="87" selection-end-line="19" selection-end-column="87" />
-          <folding>
-            <element signature="e#24#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chuso/chuso/spiders/chushouspider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="77" column="55" selection-start-line="77" selection-start-column="55" selection-end-line="77" selection-end-column="55" />
+        <state relative-caret-position="1850">
+          <caret line="77" column="55" lean-forward="true" selection-start-line="77" selection-start-column="55" selection-end-line="77" selection-end-column="55" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Yy/Yy/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding>
+            <element signature="e#193#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/runspider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        <state relative-caret-position="34">
+          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Yy/Yy/spiders/Yyspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1922">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding>
+            <element signature="e#24#50#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

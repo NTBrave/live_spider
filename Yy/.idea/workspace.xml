@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9f470ef-ce8a-4b9c-a83d-31511551645d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yy/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yy/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yy/spiders/Yyspider.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yy/spiders/Yyspider.py" afterDir="false" />
-    </list>
+    <list default="true" id="c9f470ef-ce8a-4b9c-a83d-31511551645d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +12,20 @@
     <SUITE FILE_PATH="coverage/Yy$testre.coverage" NAME="testre Coverage Results" MODIFIED="1562069399581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Yy/spiders" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Yy/spiders/Yyspider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="102" column="38" lean-forward="true" selection-start-line="100" selection-start-column="8" selection-end-line="102" selection-end-column="38" />
+              <folding>
+                <element signature="e#24#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,32 +63,34 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="37" />
-    <option name="y" value="71" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="36" />
+    <option name="y" value="70" />
     <option name="width" value="1755" />
     <option name="height" value="870" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="yy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yy" type="462c0819:PsiDirectoryNode" />
+              <item name="Yy" type="b2602c69:ProjectViewProjectNode" />
               <item name="Yy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="yy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yy" type="462c0819:PsiDirectoryNode" />
+              <item name="Yy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Yy" type="462c0819:PsiDirectoryNode" />
+              <item name="Yy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Yy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Yy" type="462c0819:PsiDirectoryNode" />
               <item name="Yy" type="462c0819:PsiDirectoryNode" />
               <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -87,12 +98,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../huya_scrapy" />
+    <property name="last_opened_file_path" value="F:/pyTest/Yy" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
@@ -161,16 +171,17 @@
       <workItem from="1562144248653" duration="392000" />
       <workItem from="1562207231603" duration="164000" />
       <workItem from="1562224980100" duration="782000" />
+      <workItem from="1562306502609" duration="252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42777000" />
+    <option name="totallyTimeSpent" value="43029000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1930295" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1735925" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -183,9 +194,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.24828532" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32921812" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.29080933" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -273,8 +284,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Yy/spiders/Yyspider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-925">
-          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        <state relative-caret-position="273">
+          <caret line="102" column="38" lean-forward="true" selection-start-line="100" selection-start-column="8" selection-end-line="102" selection-end-column="38" />
           <folding>
             <element signature="e#24#50#0" expanded="true" />
           </folding>

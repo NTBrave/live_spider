@@ -99,7 +99,7 @@ class YyspiderSpider(scrapy.Spider):
         p = re.compile(r'(?:numOfFun: ")\d*')
         sss = re.findall(r'\d+', "  ".join(re.findall(p, s)))
         if(sss==[]):
-            sss[0] = 0
-        items['fan_num'] = sss[0]
+            sss = ['0']
+        items['fan_num'] = int(sss[0])
         items['crawl_time'] = self.items_time  # 记录爬取时间
         yield items  # 输出items
